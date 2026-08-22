@@ -26,4 +26,10 @@ I run [Quantara Innovations](https://quantara.cv) — a small lab building publi
 
 ---
 
+## Support
+
+Everything here is free and openly licensed, and stays that way. If you'd like to chip in: [ko-fi.com/metrix187](https://ko-fi.com/metrix187).
+
+---
+
 [quantara.cv](https://quantara.cv) · contact@narcan.delivery
