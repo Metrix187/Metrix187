@@ -32,4 +32,4 @@ Everything here is free and openly licensed, and stays that way. If you'd like t
 
 ---
 
-[quantara.cv](https://quantara.cv) · contact@narcan.delivery
+[quantara.cv](https://quantara.cv) · sky@slateweirworks.com
